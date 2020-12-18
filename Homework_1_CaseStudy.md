@@ -4,7 +4,6 @@
 This case study is to research Apple Pay, a digital wallet service which uses Fintech teleology in payments. The research consists of four parts: general company and service introduction, 
 
 * Name of company
------
 Apple Pay is a mobile payment and digital wallet service by Apple Inc. 
 
 * When was the company incorporated?
