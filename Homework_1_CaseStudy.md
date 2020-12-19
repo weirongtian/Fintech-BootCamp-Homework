@@ -58,13 +58,16 @@ Apply Pay is the first step as Apple enters into financial industry. After five 
 For payment process service, the most intuitive metrics to measure a Company’s performance is the transaction volume. I do not get the exact transaction volume amount in Apple annual report. While during Apple’s Q1 2019 earning call, Cook said there were 1.8 billion Apply Pay transactions during 2019 first fiscal quarter and the number increased to 3 billion in 2019 Q4. It could be estimated that annual transaction volume is around 10 billion.
 
 ### How is your company performing relative to competitors in the same domain?
-
+In terms of mobile payment market, Apple Pay is captured as the largest share of the proximity mobile payment market in the US. It is estimated there is around 30.3 million Apple Pay users in 2019, which makes up 47.3% of US proximity mobile payment users and 13.7% of US smartphone users.By comparison, Google Pay and Samsung Pay make up 19% and 16.8% of proximity mobile payment users, respectively, and 5.5% and 4.9% of all smartphone users, respectively.
 
 ## Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? 
+Along with the launch of Apple Card, Apple Pay service also expands. For example, Apple users can send money with a message. The receiving money will be added into Apple Cash card that lives in the Wallet app. In others word, Apple Pay can park some idle cash out of uses’ debit card. Based on this characteristic, I suggest Apple Pay offer some wealth investment service by utilizing these idle cash. 
 
 ### Why do you think that offering this product or service would benefit the company?
+First, it helps Apple to take step into another Fintech area, Personal Finance. Second, it serves the needs of customers who do not have good access to wealth management service. Third, by adding this, Apple could provide a net financial service which is more competitive to traditntal bank. 
+
 
 ### What technologies would this additional product or service utilize?
 
@@ -82,3 +85,4 @@ For payment process service, the most intuitive metrics to measure a Company’s
 
 [5]https://www.macrotrends.net/stocks/charts/AAPL/apple/market-cap
 
+[6]https://www.emarketer.com/content/apple-pay-dominance-drives-mobile-payment-transaction-volume
