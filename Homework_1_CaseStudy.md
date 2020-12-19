@@ -70,9 +70,11 @@ First, it helps Apple to take step into another Fintech area, Personal Finance. 
 
 
 ### What technologies would this additional product or service utilize?
+It needs algorithms designed by financial advisors to automatically allocate the portfolio 
+
 
 ### Why are these technologies appropriate for your solution?
-
+Robo-advisors or robo-advisers are a class of financial adviser that provide financial advice or investment management online with moderate to minimal human intervention.They provide digital financial advice based on mathematical rules or algorithms. These algorithms are designed by financial advisors, investment managers and data scientists, and coded in software by programmers. These algorithms are executed by software and do not require a human advisor to impart financial advice to a client. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets for either short-run or long-run investment.
 
 #### Referrences
 [1]https://www.apple.com/apple-pay/
@@ -86,3 +88,5 @@ First, it helps Apple to take step into another Fintech area, Personal Finance. 
 [5]https://www.macrotrends.net/stocks/charts/AAPL/apple/market-cap
 
 [6]https://www.emarketer.com/content/apple-pay-dominance-drives-mobile-payment-transaction-volume
+
+[7]https://en.wikipedia.org/wiki/Robo-advisor
