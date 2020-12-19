@@ -34,10 +34,10 @@ In addition to the convenience it brings to consumers, it also solves the proble
 
 Apply Pay service treated almost everyone as customer, because every one needs to make payment or transfer in their daily life. Apple Pay is supported on the iPhone, Apple Watch, iPad and Mac, so everyone who owns Apple devices could utilize it.
 It is now available in 60 countries. According to QUARTZ, Apple Pay accounts for about 5% of global card transactions.  While in terms of online payment process, it accounts for 0.13% market share based on data analyzed by Datanyze. 
-Apple Pay expands payment process from online to in-person. The biggest player in digital payment process, PayPal, allows individuals and businesses to transfer funds electronically. The limit of Apply Pay is you must have a napple device to use it while PayPal does not have device requirement. The adv 
+Apple Pay is easy to use compared to its competitors. The biggest player in digital payment process, PayPal, allows individuals and businesses to transfer funds electronically. When making an in-store purchase, PayPal requires users to open the app, find the store and check-in. From there, users are given the option to order ahead at a restaurant and choose which account they'd like to pay with.While Apple Pay hasn't been rolled out to the masses All users have to do is position their device near a payment point at a store, using Touch ID or Face ID and they're good to go. A vibration and a beep will let users know the transaction was successful. There's no need to do anything else. It is can be used in the public transport networks such as Chicago Transit Authority’s Ventra or the New York MTA’s OMNY.
 
-### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+### Which technologies are they currently using, and how are they implementing them? 
+The service keeps customer payment information private from the retailer by replacing the customer's credit or debit card Funding Primary Account Number (FPAN) with a tokenized Device Primary Account Number (DPAN), and creates a "dynamic security code" generated for each transaction.The "dynamic security code" is the cryptogram in an EMV-mode transaction, and the Dynamic Card Verification Value (dCVV) in a magnetic stripe data emulation-mode transaction. Apple added that they would not track usage, which would stay between the customers, the vendors, and the banks. Users can also remotely halt the service on a lost phone via the Find My iPhone service.
 
 ## Landscape:
 
