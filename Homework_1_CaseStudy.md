@@ -52,10 +52,10 @@ As we mentioned before, its competitors includes payment process service such as
 
 ## Results
 ### What has been the business impact of this company so far?
-Apply Pay is the first step as Apple steps into financial industry. After five year of Apple Pay announcement, Apple launches Apple Card in 2019. It is a credit card created by Apple Inc and issued by Goldman, designed primarily to be used with Apply Pay. 
+Apply Pay is the first step as Apple enters into financial industry. After five year of Apple Pay announcement, Apple launches Apple Card in 2019. It is a credit card created by Apple Inc and issued by Goldman, designed primarily to be used with Apply Pay. 
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-For payment process service, the most intuitive metrics to measure a Company’s performance is the transaction volume. I did not get the exact transaction volume amount in Apple annual report. While during Apple’s Q1 2019 earning call, Cook said there were 1.8 billion Apply Pay transactions during 2019 first fiscal quarter and the number increased to 3 billion in 2019 Q4. It could be estimated that annual transaction volume is around 10 billion.
+For payment process service, the most intuitive metrics to measure a Company’s performance is the transaction volume. I do not get the exact transaction volume amount in Apple annual report. While during Apple’s Q1 2019 earning call, Cook said there were 1.8 billion Apply Pay transactions during 2019 first fiscal quarter and the number increased to 3 billion in 2019 Q4. It could be estimated that annual transaction volume is around 10 billion.
 
 * How is your company performing relative to competitors in the same domain?
 
