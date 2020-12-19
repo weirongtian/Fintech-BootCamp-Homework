@@ -62,7 +62,7 @@ For payment process service, the most intuitive metrics to measure a Company’s
 
 ## Recommendations
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### If you were to advise the company, what products or services would you suggest they offer? 
 
 ### Why do you think that offering this product or service would benefit the company?
 
