@@ -13,7 +13,7 @@ Apple Inc was incorporated on January 3, 1977. It designs, developed and sells c
 
 ### Who are the founders of the company?
 
-Apple Inc was founded by Steve Jobs and Steve Wozniak. Apple Pay service became public when Time Cook manage the company as CEO.
+Apple Inc was founded by Steve Jobs and Steve Wozniak. Apple Pay service was provided when Time Cook manage the company as CEO.
 
 ### How did the idea for the company (or project) come about?
 
