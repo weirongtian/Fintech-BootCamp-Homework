@@ -17,11 +17,11 @@ Apple Inc was founded by Steve Jobs and Steve Wozniak. Apple Pay service was pro
 
 ### How did the idea for the company (or project) come about?
 
-The service was in preparation for "a long time", as Apple acquired startups, hired executives and filed patents related to payments.Apple partnered with American Express, MasterCard and Visa. Their joint project began in January 2013, though they had discussed Apple's potential involvement for years. Their joint solution was a system where single-use digital tokens would replace the transfer of personal information as people are anon with “token” system.
+The service was in preparation for "a long time", as Apple acquired startups, hired executives and filed patents related to payments.Apple partnered with American Express, MasterCard and Visa. Their joint project began in January 2013, though they had discussed Apple's potential involvement for years. Their joint solution was a system where single-use digital tokens would replace the transfer of personal information.It utilizes the EMV Payment Tokenisation Specification which will be illustrated in later sections. 
 
 ### How is the company funded? How much funding have they received?
 
-Apple Inc is a public listed company. It is the first company whose market cap reached USD 1 trillion and 2 trillion.  At the end of September, 2014, when Apple Pay service launch, its market map is around USD 613 billions. It utilizes the EMV Payment Tokenisation Specification which will be illustrated in later sections. 
+Apple Inc is a public listed company. It is the first company whose market cap reached USD 1 trillion and 2 trillion.  At the end of September, 2014, when Apple Pay service launch, its market map is around USD 613 billions. 
 
 ## Business Activities:
 
@@ -57,15 +57,15 @@ Apply Pay is the first step as Apple enters into financial industry. After five 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 For payment process service, the most intuitive metrics to measure a Company’s performance is the transaction volume. I do not get the exact transaction volume amount in Apple annual report. While during Apple’s Q1 2019 earning call, Cook said there were 1.8 billion Apply Pay transactions during 2019 first fiscal quarter and the number increased to 3 billion in 2019 Q4. It could be estimated that annual transaction volume is around 10 billion.
 
-* How is your company performing relative to competitors in the same domain?
+### How is your company performing relative to competitors in the same domain?
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+### Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
+### What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
+### Why are these technologies appropriate for your solution?
