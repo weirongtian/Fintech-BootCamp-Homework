@@ -1,7 +1,7 @@
 # Fintech Case Study - Apple Pay
 
 ## Overview and Origin
-This case study is to research Apple Pay, a digital wallet service which uses Fintech teleology in payments. The research consists of four parts: general company information, and service introduction, 
+This case study is to research Apple Pay, a digital wallet service which uses Fintech teleology in payments. The research consists of five parts: general company information, and business activities, major domin, results and recommendation. 
 
 ### Name of company
   
