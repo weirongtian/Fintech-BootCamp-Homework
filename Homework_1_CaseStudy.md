@@ -69,3 +69,16 @@ For payment process service, the most intuitive metrics to measure a Company’s
 ### What technologies would this additional product or service utilize?
 
 ### Why are these technologies appropriate for your solution?
+
+
+#### Referrences
+[1]https://www.apple.com/apple-pay/
+
+[2]https://en.wikipedia.org/wiki/Apple_Pay 
+
+[3]https://en.wikipedia.org/wiki/Digital_wallet 
+
+[4] Apple Inc 2019 10K
+
+[5]https://www.macrotrends.net/stocks/charts/AAPL/apple/market-cap
+
