@@ -1,7 +1,7 @@
 # Fintech Case Study - Apple Pay
 
 ## Overview and Origin
-This case study is to research Apple Pay, a digital wallet service which uses Fintech teleology in payments. The research consists of four parts: general company and service introduction, 
+This case study is to research Apple Pay, a digital wallet service which uses Fintech teleology in payments. The research consists of four parts: general company information, and service introduction, 
 
 ### Name of company
   
@@ -40,12 +40,14 @@ Apple Pay is easy to use compared to its competitors. The biggest player in digi
 The service keeps customer payment information private from the retailer by replacing the customer's credit or debit card Funding Primary Account Number (FPAN) with a tokenized Device Primary Account Number (DPAN), and creates a "dynamic security code" generated for each transaction.The "dynamic security code" is the cryptogram in an EMV-mode transaction, and the Dynamic Card Verification Value (dCVV) in a magnetic stripe data emulation-mode transaction. Apple added that they would not track usage, which would stay between the customers, the vendors, and the banks. Users can also remotely halt the service on a lost phone via the Find My iPhone service.
 
 ## Landscape:
+### What domain of the financial industry is the company in?
+Apply Pay involves in process and payment in the financial industry. 
 
-* What domain of the financial industry is the company in?
+### What have been the major trends and innovations of this domain over the last 5-10 years?
+Digital wallet is not only limit to payment process.Like a physical wallet, not everything inside it is intended as a payment output. Most people carry licenses, gift and loyalty cards, photos, receipts, and even cash, all of which is being increasingly digitized and indexed by various digital wallet service. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
+### What are the other major companies in this domain?
+As we mentioned before, its competitors includes payment process service such as Paypal, Stripe, Amazon Pay. 
 
 
 ## Results
